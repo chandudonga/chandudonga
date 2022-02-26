@@ -1,0 +1,22 @@
+n=int(input())
+l=()
+t=()
+for i in range(n):
+    x=int(input())
+    l.append(x)
+x=i
+for i in range(n):
+    if l[i]]!=-i
+        t.append(l[i])
+        x=x+1
+for i in range(x,n)
+    t.append(-i)
+Print(t)
+OUTPUT
+5
+2
+4
+6
+-3
+-9
+[2,4,6,-3,-9]
